@@ -3,7 +3,7 @@ var router = express.Router();
 
 var supplierdb = 
     [
-        {supplierid:'100', companyname:'Pivotal', country:'United States', accountstatus:'good'},
+        {supplierid:'100', companyname:'Pivotal', country:'United States'},
         {supplierid:'101', companyname:'Microsoft', country:'United States'},
         {supplierid:'102', companyname:'Kovai Ltd', country:'England'}
     ];
